@@ -33,7 +33,7 @@ AtliQ Hardwares needed better insights to optimize pricing, inventory, and marke
 ✔ Open the presentation to review key insights.  
 
 🔗 **Links**  
-📊 **Presentation**: [Click Here](https://lnkd.in/dEHDbUCR)  
+📊 **Presentation**: [Click Here](https://www.canva.com/design/DAGeO3ulrdk/yTIsxfVvCw8pEG6nYVnsWw/view?utm_content=DAGeO3ulrdk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0a2135e98)  
 💻 **LinkedIn Post**: [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:7298373968531488768/)  
 
 📢 **This project showcases my expertise in SQL, Power BI, and data-driven decision-making.**  
