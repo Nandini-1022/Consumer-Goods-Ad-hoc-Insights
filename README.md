@@ -1,4 +1,4 @@
-**Consumer Goods Ad-Hoc Insights** - **Codebasics Resume Challenge Project**  
+**Consumer Goods Ad-Hoc Insights** - **[Codebasics Resume Challenge Project](https://codebasics.io/)**  
 
 📌 **Project Overview**  
 Analyzed ad-hoc business queries using SQL and Power BI to help AtliQ Hardwares make data-driven decisions.  
@@ -7,7 +7,7 @@ Analyzed ad-hoc business queries using SQL and Power BI to help AtliQ Hardwares 
 AtliQ Hardwares needed better insights to optimize pricing, inventory, and market strategy.  
 
 📊 **My Role & Approach**  
-✔ Analyzed 10 business queries from `ad-hoc-requests.pdf`.  
+✔ Analyzed 10 business queries from [ad-hoc-requests.pdf](https://github.com/Nandini-1022/Consumer-Goods-Ad-hoc-Insights/blob/main/ad-hoc-requests.pdf).  
 ✔ Executed SQL queries in MySQL to extract insights.  
 ✔ Designed a presentation in Canva to communicate findings.  
 
@@ -23,10 +23,10 @@ AtliQ Hardwares needed better insights to optimize pricing, inventory, and marke
 ✅ Highlighted inefficiencies to improve decision-making.  
 
 📂 **Project Files**  
-📁 `Data/` - Raw and processed datasets.  
-🗄 `SQL Queries/` - All SQL scripts used for analysis.  
-📜 `ad-hoc-requests.pdf` – Contains 10 business queries.  
-📑 `Presentation/` - Data storytelling slides.  
+🗄 [SQL Queries/](https://github.com/Nandini-1022/Consumer-Goods-Ad-hoc-Insights/blob/main/SQL%20Code) - All SQL scripts used for analysis.  
+📜 [ad-hoc-requests.pdf](https://github.com/Nandini-1022/Consumer-Goods-Ad-hoc-Insights/blob/main/ad-hoc-requests.pdf) – Contains 10 business queries.  
+📑 [Presentation](https://www.canva.com/design/DAGeO3ulrdk/yTIsxfVvCw8pEG6nYVnsWw/view?utm_content=DAGeO3ulrdk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0a2135e98) – Data storytelling slides.  
+
 
 🖥️ **How to Use This Repository**  
 ✔ Run SQL scripts in MySQL to explore the analysis.  
